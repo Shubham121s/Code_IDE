@@ -56,7 +56,7 @@ Ensure you have the following installed on your system:
 1. **Create a `.env` file in the `server` directory**
 
    ```plaintext
-   PORT=5000
+   PORT=3000
    MONGODB_URI=mongodb://localhost:27017/your-database-name
    JWT_SECRET=your-secret-key
    ```
