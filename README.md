@@ -1,11 +1,10 @@
 
-
 ```markdown
-# Project Name
+# Code_IDE
 
 ## Description
 
-Project Name is a web application built using the MERN stack (MongoDB, Express.js, React, Node.js). This application provides [brief description of what the project does]. It includes features such as [list key features].
+Code_IDE is a web application built using the MERN stack (MongoDB, Express.js, React, Node.js). This application provides a platform for users to manage and work on their coding projects efficiently. It includes features such as project creation, management, and a user-friendly interface for interacting with the projects.
 
 ## Technologies Used
 
@@ -29,13 +28,13 @@ Ensure you have the following installed on your system:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Shubham121s/project-name.git
+   git clone https://github.com/Shubham121s/Code_IDE.git
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd project-name
+   cd Code_IDE
    ```
 
 3. **Install server-side dependencies**
@@ -116,4 +115,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Acknowledgment 2]
 - [Acknowledgment 3]
 ```
-
